@@ -1,4 +1,4 @@
-![logo](https://github.com/ultralegendshubh/Shubham_Kharat/blob/main/Gradient%20Elegant%20Line%20Gaming%20Twitter%20Header%20Banner.png)
+![logo](https://github.com/ultralegendshubh/ultralegendshubh/blob/main/Gradient%20Elegant%20Line%20Gaming%20Twitter%20Header%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Shubham Kharat</h1>
 <h3 align="center">A passionate Data Scientist & Data Analyst from India</h3>
