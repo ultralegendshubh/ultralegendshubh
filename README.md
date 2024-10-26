@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhamkharat8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tDHK99DRuLQ1s7qCMyFAm_0XvV2HL9cC/view?usp=sharing](https://drive.google.com/file/d/1tDHK99DRuLQ1s7qCMyFAm_0XvV2HL9cC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15gYrz7zsh2NSd6JfwkpNsGCqAoDg0JBB/view](https://drive.google.com/file/d/15gYrz7zsh2NSd6JfwkpNsGCqAoDg0JBB/view)
 
 - ⚡ Fun fact **Modern Mind, Vintage Heart...😉**
 
