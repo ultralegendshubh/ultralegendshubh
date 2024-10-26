@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultralegendshubh&label=Profile%20views&color=0e75b6&style=flat" alt="ultralegendshubh" /> </p>
 
-- 🔭 I’m currently working at **ICICI Foundation**
+- 🔭 I’m currently working at **Tata STRIVE**
 
-- 🌱 I’m currently learning **Prompt Engineering**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultralegendshubh](https://github.com/ultralegendshubh)
 
